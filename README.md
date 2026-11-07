@@ -3,7 +3,7 @@
 </p>
 ---
 
-## 🐺 Equipe Lone Wolf
+## 🐺 Equipe The Wolf
 
 | Integrante | LinkedIn | GitHub |
 |-----------|----------|--------|
@@ -16,6 +16,7 @@
 | Semestre | Projeto | Cliente | Descrição | Repositório |
 |----------|---------|---------|-----------|-------------|
 | 4º SEM | EnviroSense | Tecsus | Sistema de coleta e processamento de dados de estações meteorológicas de baixo custo, capazes de medir direção e velocidade do vento, índice pluviométrico, umidade, temperatura e pressão atmosférica. Os dados são enviados a um servidor central, armazenados e disponibilizados em um portal web com dashboards interativos e relatórios para análise das informações coletadas. | [![GitHub](https://img.shields.io/badge/GitHub-repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lone-wolf-fatec/EnviroSense) |
+| 5º SEM | GridSight | Tecsus | Sistema de planejamento de cobertura de rádio para redes elétricas inteligentes. Calcula o sinal de gateways a 915 MHz considerando o relevo (SRTM), as árvores e os prédios (OpenStreetMap), e indica onde instalar os gateways para atender o maior número de ativos (medidores, sensores e religadores) das distribuidoras de energia. Os resultados aparecem em um aplicativo com mapa interativo, para celular, tablet e web. | [![GitHub](https://img.shields.io/badge/GitHub-repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/the-wolf-fatec/GridSight) |
 
 ---
 
